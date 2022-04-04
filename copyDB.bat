@@ -1,0 +1,1 @@
+echo y|copy "D:\svn-repo\Crystals\Branches\Release_v1.2.0\Database\*.*" "D:\svn-repo\Crystals\Branches\Release_v1.2.0\Crystals\bin\Debug\"
